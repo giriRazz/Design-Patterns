@@ -19,11 +19,11 @@
 
 ## Binding properties with transformations can be achieved through reducing the transformation function to the problem of binding properties, and the function can be imaginary consider as Type Conversions.
 
+
 ##figure 
 
-
-
-
+         
+![binding_properties_pattern](https://cloud.githubusercontent.com/assets/26067522/24689864/5190391e-197e-11e7-88f2-d84def76393e.png)
 
 
 
