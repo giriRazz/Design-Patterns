@@ -22,14 +22,15 @@
 
 
          
-         ![binding_properties_pattern](https://cloud.githubusercontent.com/assets/26067522/24689864/5190391e-197e-11e7-88f2-     d84def76393e.png)
+   ![binding_properties_pattern](https://cloud.githubusercontent.com/assets/26067522/24689864/5190391e-197e-11e7-88f2-     d84def76393e.png)
 
 
 
 
 ### A common case of binding properties with a transformation is binding boolean properties with mutual negation.
 ## Binding Multiple Properties'
-### Resulting context: Properties are kept synchronized completely automatically. Between library calls they always have the values expressed by the EqualityConstraints.
+### Resulting context:
+### Properties are kept synchronized completely automatically. Between library calls they always have the values expressed by the EqualityConstraints.
 
 ## Deficiencies:
 ### Watching over property changes requires some resources. These resources may be sometimes unnecessarily wasted on properties changes of which no one observes for.
